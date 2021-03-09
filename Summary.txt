@@ -1,0 +1,13 @@
+ls - list
+mkdir - make directory
+cd - change directory
+pwd - Print working directory
+clear - clear
+touch is the command to create a new fie
+code - is the command to open a file or directory in VSCode]
+git checkout - switches to new branches
+git checkout -b - creates new branch
+code . -opens code in VSCode
+git add . -adds all changes
+git commit -m "message here"
+git push -u origin -pushs code from new origin
